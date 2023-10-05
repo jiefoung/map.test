@@ -1,0 +1,1551 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "梧棲漁港",
+        "phone": "-",
+        "address": "臺灣臺中市清水區",
+        "updated": "-",
+        "available": "海鮮市場、漁船遊覽行程、特色美食",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.52126946532367,
+          24.29388441126944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "台灣電力公司台中發電廠",
+        "phone": "-",
+        "address": "臺灣臺中市龍井區麗水里9鄰龍昌路1號",
+        "updated": "-",
+        "available": "台中火力發電廠",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "麗水里",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4932698,
+          24.2172226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三井 OUTLET",
+        "phone": "-",
+        "address": "臺中市梧棲區台灣大道十段168號",
+        "updated": "-",
+        "available": "大型暢貨中心",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "安仁里",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5205317,
+          24.2561141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "正隆股份有限公司",
+        "phone": "(04)26301919",
+        "address": "臺中市梧棲區自立路532號",
+        "updated": "-",
+        "available": "造紙廠",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5398963,
+          24.2939119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中美和石油化學股份有限公司 台中廠",
+        "phone": "-",
+        "address": "臺中市梧棲區草湳里13鄰南堤路二段89號",
+        "updated": "-",
+        "available": "石油化學廠",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "草湳里",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4942109,
+          24.2677438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "台灣中油股份有限公司台中液化天然氣廠",
+        "phone": "-",
+        "address": "臺中市梧棲區草湳里13鄰南堤路二段88號",
+        "updated": "-",
+        "available": "液化天然氣廠",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "草湳里",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4968486,
+          24.249867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中龍鋼鐵公司",
+        "phone": "-",
+        "address": "臺中市龍井區麗水里9鄰龍昌路100號",
+        "updated": "-",
+        "available": "鋼鐵廠",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "臺中市",
+        "town": "龍井區",
+        "cunli": "麗水里",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.494603,
+          24.2172324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "關連工業區",
+        "phone": "0426392514",
+        "address": "台中市梧棲區自強路280號",
+        "updated": "-",
+        "available": "加工、製造業、物流業",
+        "note": "-",
+        "custom_note": "-",
+        "website": "https://www.moeaidb.gov.tw/iphw/taichunghr/",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5187,
+          24.2315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "京揚國際物流",
+        "phone": "0426570526",
+        "address": "台中市梧棲區中橫十路100號",
+        "updated": "-",
+        "available": "物流業",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.eim.com.tw/",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5224724,
+          24.2612582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中國貨櫃運輸股份有限公司",
+        "phone": "-",
+        "address": "台中市清水區中橫十三路",
+        "updated": "-",
+        "available": "倉儲物流業",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "臺中市",
+        "town": "清水區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5296441268988,
+          24.28004145649421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "長榮國際儲運貨櫃場",
+        "phone": "0426573031",
+        "address": "台中市梧棲區中南一路二段809號",
+        "updated": "-",
+        "available": "倉儲物流業",
+        "note": "-",
+        "custom_note": "-",
+        "website": "https://www.evergreen-eitc.com.tw/eitchtdocs/jsp/index.jsp",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.516,
+          24.2688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "萬春國際貨櫃場",
+        "phone": "0426562984",
+        "address": "台中市梧棲區中南一路二段757號",
+        "updated": "-",
+        "available": "倉儲物流業",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5138,
+          24.2648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "台灣肥料股份有限公司台中廠",
+        "phone": "0425218588",
+        "address": "台中市梧棲區草湳里13鄰南堤路二段100號",
+        "updated": "-",
+        "available": "肥料廠",
+        "note": "-",
+        "custom_note": "-",
+        "website": "https://www.taifer.com.tw/",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5023,
+          24.2655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東和鋼鐵企業",
+        "phone": "0426561717",
+        "address": "台中市梧棲區臨港路三段455號",
+        "updated": "-",
+        "available": "鋼鐵加工廠",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "草湳里",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5198,
+          24.2472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "引春物流倉儲自貿廠區",
+        "phone": "0426572765",
+        "address": "台中市梧棲區中南一路二段580號",
+        "updated": "-",
+        "available": "物流倉儲",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5148445,
+          24.2555795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "華城重電",
+        "phone": "0426578118",
+        "address": "台中市梧棲區南橫一路500號",
+        "updated": "-",
+        "available": "工業設備供應商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.fortune.com.tw/",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5148445,
+          24.2555795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中港加工出口區",
+        "phone": "-",
+        "address": "台中市梧棲區經二路",
+        "updated": "-",
+        "available": "倉儲裝卸、製造加工業",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5098,
+          24.2397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "德隆倉儲裝卸股份有限公司",
+        "phone": "0426578118",
+        "address": "台中市梧棲區中橫十路146號",
+        "updated": "-",
+        "available": "倉儲裝卸",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.fortune.com.tw/",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5278579,
+          24.271848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福斯倉儲股份有限公司",
+        "phone": "0426571199",
+        "address": "台灣梧棲區中二路與中橫七路交叉港區內#5碼頭",
+        "updated": "-",
+        "available": "倉儲",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "臺中市",
+        "town": "梧棲區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.52607,
+          24.2652730379106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "世紀樺欣風能股份有限公司",
+        "phone": "0426581187",
+        "address": "台中市龍井區環港路227號",
+        "updated": "-",
+        "available": "風力能源製造商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.chwetw.com/",
+        "county": "臺中市",
+        "town": "龍井區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.47383719712701,
+          24.227532107337414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中聯資源中港廠",
+        "phone": "-",
+        "address": "台中市龍井區環港路62號",
+        "updated": "-",
+        "available": "鋼鐵加工廠",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.chwetw.com/",
+        "county": "臺中市",
+        "town": "龍井區",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.46548018430946,
+          24.21593840364964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "貝民股份有限公司臺中港廠",
+        "phone": "0426380651",
+        "address": "台中市梧棲區南堤路二段85號",
+        "updated": "-",
+        "available": "化學工廠",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.beaming.com.tw/tc/home.php",
+        "county": "臺中市",
+        "town": "龍井區",
+        "cunli": "麗水里",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.49294020430894,
+          24.260426840783342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "億昇倉儲企業股份有限公司(西六廠區)",
+        "phone": "0426393206",
+        "address": "台中市龍井區南堤路三段200號",
+        "updated": "-",
+        "available": "倉庫設施",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.wintakpetro.com/index.html",
+        "county": "臺中市",
+        "town": "龍井區",
+        "cunli": "麗水里",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.50460549977218,
+          24.271343854578806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "芳苑工業區",
+        "phone": "-",
+        "address": "彰化縣芳苑鄉工區二路",
+        "updated": "-",
+        "available": "製造業、加工廠",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3484,
+          23.9113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "王功蚵田",
+        "phone": "-",
+        "address": "彰化縣芳苑鄉漁港七路",
+        "updated": "-",
+        "available": "旅遊景點",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.33170518555717,
+          23.99393739419268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "漢寶濕地",
+        "phone": "-",
+        "address": "彰化縣芳苑鄉永利路二段",
+        "updated": "-",
+        "available": "自然保護區",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.35281332773648,
+          24.009864238007218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "芳苑肉品有限公司",
+        "phone": "048933769",
+        "address": "彰化縣芳苑鄉民權路62號",
+        "updated": "-",
+        "available": "肉類批發商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.fypoultry.com/",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.34698927418063,
+          23.93604481460382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "宏聚塑膠股份有限公司",
+        "phone": "048950971",
+        "address": "彰化縣芳苑鄉工區路33號",
+        "updated": "-",
+        "available": "塑料製造公司",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://horngenplastic.com/",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3480822848209,
+          23.91951372231974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "茂生食品股份有限公司",
+        "phone": "048936888",
+        "address": "彰化縣芳苑鄉草崙路11之22號",
+        "updated": "-",
+        "available": "食品供應商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "https://www.morn-sun.com.tw/",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3480822848209,
+          23.91951372231974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "禾園畜牧場",
+        "phone": "0923611700",
+        "address": "彰化縣芳苑鄉中正路162巷62號",
+        "updated": "-",
+        "available": "家禽飼養場",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.36147802587824,
+          23.97483004427023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "長興導線有限公司",
+        "phone": "048934808",
+        "address": "彰化縣芳苑鄉草崙路25號",
+        "updated": "-",
+        "available": "金屬工廠",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.36800738518846,
+          23.963780038698594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "萬益生技",
+        "phone": "048935575",
+        "address": "彰化縣芳苑鄉芳漢路王功段978巷建306號",
+        "updated": "-",
+        "available": "肥料供應商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.35250528189117,
+          23.96476994733876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "王功畜牧場",
+        "phone": "048932832",
+        "address": "彰化縣芳苑鄉芳漢路王功段738號528號",
+        "updated": "-",
+        "available": "大牧場",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.3qegg.com.tw/",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.34512606340547,
+          23.97057829186204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "王功農漁牧生產合作社",
+        "phone": "048932156",
+        "address": "彰化縣芳苑鄉王功村漁港三路43號",
+        "updated": "-",
+        "available": "農業協會",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.wkc-jf.com.tw/",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.33380851140437,
+          23.96934982986938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鄉村開發工程有限公司",
+        "phone": "048932548",
+        "address": "彰化縣芳苑鄉芳漢路新寶段129號129巷223號",
+        "updated": "-",
+        "available": "農業協會",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.33956294266497,
+          23.979901562796353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福茂有機肥料科技股份有限公司",
+        "phone": "048985801",
+        "address": "彰化縣芳苑鄉斗苑路芳苑段60號",
+        "updated": "-",
+        "available": "肥料供應商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://pusheng168.com/",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.33172686172799,
+          23.91734959844704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "力鵬企業股份有限公司尼龍總廠",
+        "phone": "048138168",
+        "address": "彰化縣芳苑鄉工業路33號",
+        "updated": "-",
+        "available": "塑料製造公司",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.35393886373127,
+          23.922656998380052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "春億聯合有限公司",
+        "phone": "048981010",
+        "address": "芳苑鄉彰化縣斗苑路10號",
+        "updated": "-",
+        "available": "塑料製造公司",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.33598838141806,
+          23.914191387883754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福海養殖場",
+        "phone": "0937755308",
+        "address": "彰化縣芳苑鄉131地號",
+        "updated": "-",
+        "available": "水產養殖場",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.32071987727491,
+          23.964443406445522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東青食品有限公司",
+        "phone": "048936833",
+        "address": "彰化縣芳苑鄉建成路235巷23號",
+        "updated": "-",
+        "available": "食品批發商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "https://www.tc-f.com.tw/",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.33936629387847,
+          23.959976006392655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "台灣寬寶國際有限公司",
+        "phone": "048863198",
+        "address": "彰化縣芳苑鄉二溪路草二段866號",
+        "updated": "-",
+        "available": "機械零件製造商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.calstar.tw/",
+        "county": "彰化縣",
+        "town": "芳苑鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.39367364827606,
+          23.95773895984822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東石漁人碼頭",
+        "phone": "053621855",
+        "address": "嘉義縣東石鄉彩霞大道420號",
+        "updated": "-",
+        "available": "漁人碼頭",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "嘉義縣",
+        "town": "東石鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.13527279500657,
+          23.448950434944507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東石漁港",
+        "phone": "-",
+        "address": "嘉義縣東石鄉168縣道34號",
+        "updated": "-",
+        "available": "海港",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "嘉義縣",
+        "town": "東石鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.13738119150365,
+          23.451667468199194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東石釣具",
+        "phone": "053799147",
+        "address": "嘉義縣東石鄉洲仔村213號",
+        "updated": "-",
+        "available": "釣魚用具商店",
+        "note": "-",
+        "custom_note": "-",
+        "website": "https://www.facebook.com/%E6%9D%B1%E7%9F%B3%E9%87%A3%E5%85%B7-249647431733980/?fref=ts",
+        "county": "嘉義縣",
+        "town": "東石鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18542525256596,
+          23.45797843718575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "余順豐農產加工廠",
+        "phone": "053798662",
+        "address": "嘉義縣東石鄉20之28號",
+        "updated": "-",
+        "available": "製造商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "https://www.facebook.com/%E6%9D%B1%E7%9F%B3%E9%87%A3%E5%85%B7-249647431733980/?fref=ts",
+        "county": "嘉義縣",
+        "town": "東石鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.21396837234043,
+          23.477249309430658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福爾摩沙養殖場",
+        "phone": "053731763",
+        "address": "嘉義縣東石鄉永屯村",
+        "updated": "-",
+        "available": "水產養殖場",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.formosana.com.tw/",
+        "county": "嘉義縣",
+        "town": "東石鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.163388394896,
+          23.462437529618555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "石璣企業有限公司",
+        "phone": "053733042",
+        "address": "嘉義縣東石鄉166縣道128號",
+        "updated": "-",
+        "available": "回收服務中心",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "嘉義縣",
+        "town": "東石鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17734949489643,
+          23.472053600458437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "溢隆水產行（養殖場）",
+        "phone": "-",
+        "address": "嘉義縣東石鄉型厝村平安路100號",
+        "updated": "-",
+        "available": "水產批發商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "嘉義縣",
+        "town": "東石鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15624630239391,
+          23.477369618910323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "6號漁鋪",
+        "phone": "0916586379",
+        "address": "嘉義縣東石鄉11-50號",
+        "updated": "-",
+        "available": "海鮮批發商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "嘉義縣",
+        "town": "東石鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15587493904836,
+          23.461476498799954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "台灣正豐植保股份有限公司",
+        "phone": "053661398",
+        "address": "嘉義縣東石鄉洲仔村洲子123號之3",
+        "updated": "-",
+        "available": "農業用品店",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "嘉義縣",
+        "town": "東石鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19021026421547,
+          23.455605836572996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "元山水產",
+        "phone": "053732211",
+        "address": "嘉義縣東石鄉18之10號",
+        "updated": "-",
+        "available": "海鮮批發商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.wonsan.com.tw/",
+        "county": "嘉義縣",
+        "town": "東石鄉",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17219936568682,
+          23.469281478900083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "通霄海攤百貨",
+        "phone": "0923898654",
+        "address": "苗栗縣通霄鎮海濱路111號",
+        "updated": "-",
+        "available": "泳裝店",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.swim-beauty.com/about/",
+        "county": "苗栗縣",
+        "town": "通霄鎮",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67346966012994,
+          24.488413557635788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "通霄天然氣發電廠",
+        "phone": "037752054",
+        "address": "苗栗縣通霄鎮海濱路1-31號",
+        "updated": "-",
+        "available": "發電站",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.taipower.com.tw/",
+        "county": "苗栗縣",
+        "town": "通霄鎮",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67429319957247,
+          24.490902698891404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "豐利食品廠股份有限公司",
+        "phone": "037752034",
+        "address": "苗栗縣通霄鎮平安里103號",
+        "updated": "-",
+        "available": "食品製造商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "苗栗縣",
+        "town": "通霄鎮",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.69221912192475,
+          24.49776998217826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "凱丞汽車材料行",
+        "phone": "037765100",
+        "address": "苗栗縣通霄鎮通灣里通灣81號之3",
+        "updated": "-",
+        "available": "汽車零件店",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "苗栗縣",
+        "town": "通霄鎮",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68687455260562,
+          24.511784221131123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "永益汽車修理廠",
+        "phone": "037752269",
+        "address": "苗栗縣通霄鎮65之3號",
+        "updated": "-",
+        "available": "汽車維修店",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "苗栗縣",
+        "town": "通霄鎮",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6910596679459,
+          24.513248281570828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三大興機電廠",
+        "phone": "037752636",
+        "address": "苗栗縣通霄鎮通灣101-18號",
+        "updated": "-",
+        "available": "製造商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://www.sdh.com.tw/",
+        "county": "苗栗縣",
+        "town": "通霄鎮",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68966493322057,
+          24.508122197349937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "得邑精密企業有限公司",
+        "phone": "037763880",
+        "address": "苗栗縣通霄鎮福源里108-60號",
+        "updated": "-",
+        "available": "機械工廠",
+        "note": "-",
+        "custom_note": "-",
+        "website": "https://deryiprint.wixsite.com/deryiprint1990",
+        "county": "苗栗縣",
+        "town": "通霄鎮",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.69785793726511,
+          24.50268995486592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "協保企業有限公司",
+        "phone": "037756736",
+        "address": "苗栗縣通霄鎮南和路二段262號",
+        "updated": "-",
+        "available": "建築材料供應商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "苗栗縣",
+        "town": "通霄鎮",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68612315260437,
+          24.479680422241376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "聯鎰傢俱",
+        "phone": "037755800",
+        "address": "苗栗縣通霄鎮14鄰107號",
+        "updated": "-",
+        "available": "家具批發商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "苗栗縣",
+        "town": "通霄鎮",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68641293726408,
+          24.47588878989029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "立豐達實業有限公司",
+        "phone": "037762709",
+        "address": "苗栗縣通霄鎮南華路48號",
+        "updated": "-",
+        "available": "工具設備製造商",
+        "note": "-",
+        "custom_note": "-",
+        "website": "https://portablelifter.wix.com/home",
+        "county": "苗栗縣",
+        "town": "通霄鎮",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67442735260438,
+          24.481379228091082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上昕工程顧問股份有限公司",
+        "phone": "037764605",
+        "address": "苗栗縣通霄鎮通南里21鄰5號",
+        "updated": "-",
+        "available": "工程設計服務",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "苗栗縣",
+        "town": "通霄鎮",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67748772192446,
+          24.489615669086028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "宇銳工程有限公司",
+        "phone": "037757969",
+        "address": "苗栗縣通霄鎮海濱路62號之1號",
+        "updated": "-",
+        "available": "汽車用品店",
+        "note": "-",
+        "custom_note": "-",
+        "website": "-",
+        "county": "苗栗縣",
+        "town": "通霄鎮",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67782909493472,
+          24.49045241387424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "聯勝塑膠",
+        "phone": "037751681",
+        "address": "苗栗縣通霄鎮13鄰129號",
+        "updated": "-",
+        "available": "塑料製造公司",
+        "note": "-",
+        "custom_note": "-",
+        "website": "http://tw.ttnet.net/cshow_html.jsp/%EF%BF%BDp%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BDT/SS/contacthtm/Y/cono/40000473/cooklang/1/type1/A",
+        "county": "苗栗縣",
+        "town": "通霄鎮",
+        "cunli": "-",
+        "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68805479493534,
+          24.5067960011729
+        ]
+      }
+    }
+
+
+
+
+
+
+
+
+
+
+  ]
+}
