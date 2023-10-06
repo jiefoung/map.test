@@ -1,0 +1,221 @@
+<!DOCTYPE HTML>
+
+<html lang="zh">
+
+  <head>
+
+    <meta charset="utf-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+    
+    <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
+    
+    <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css'
+        rel='stylesheet' />
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol/dist/L.Control.Locate.min.css" />
+        
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol/dist/L.Control.Locate.min.js" charset="utf-8"></script>
+
+    <link
+    href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.css"></link> 
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.Default.css"></link> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/leaflet.markercluster.js"></script>
+    
+
+    <style>
+
+      html, body {
+
+        padding: 0;
+        margin: 0;
+
+      }
+
+      #map {
+
+        /* 設定地圖div的高度(viewport)，如果沒有設定，地圖會顯現不出來(網頁畫面一片白) */
+
+        width: 100vw;
+        height: 100vh
+
+      }
+      #lmap {
+            height: 100%;
+          }
+
+          .marker-cluster-small {
+		background-color: rgba(181, 226, 140, 0.6);
+		}
+	.marker-cluster-small div {
+		background-color: rgba(110, 204, 57, 0.6);
+		}
+
+	.marker-cluster-medium {
+		background-color: rgba(241, 211, 87, 0.6);
+		}
+	.marker-cluster-medium div {
+		background-color: rgba(240, 194, 12, 0.6);
+		}
+
+	.marker-cluster-large {
+		background-color: rgba(253, 156, 115, 0.6);
+		}
+	.marker-cluster-large div {
+		background-color: rgba(241, 128, 23, 0.6);
+		}
+
+	.marker-cluster {
+		background-clip: padding-box;
+		border-radius: 20px;
+		}
+	.marker-cluster div {
+		width: 30px;
+		height: 30px;
+		margin-left: 5px;
+		margin-top: 5px;
+
+		text-align: center;
+		border-radius: 15px;
+		font: 12px "Helvetica Neue", Arial, Helvetica, sans-serif;
+		}
+	.marker-cluster span {
+		line-height: 30px;
+		}
+
+
+
+    
+    </style>
+
+  </head>
+
+  <body>
+
+    <div id="map"></div>
+
+
+    <script>
+
+      // 設定地圖中心點與放大級別
+
+      var map = L.map('map').setView({lon: 120.58069556179916, lat:24.217520937254157},16);
+      
+      // 載入圖資
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+
+        attribution: '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap contributors</a>'
+
+      }).addTo(map);
+
+      // 在左下角顯示比例尺
+     L.control.scale({imperial: true, metric: true}).addTo(map);
+      
+      //地圖全螢幕顯示
+      map.addControl(new L.Control.Fullscreen());
+      
+      //點擊地圖 顯示經度緯度
+      const popup = L.popup();
+      function onMapClick(e) {
+      let lat = e.latlng.lat; // 緯度
+      let lng = e.latlng.lng; // 經度
+      popup
+      .setLatLng(e.latlng)
+      .setContent(`緯度：${lat}<br/>經度：${lng}`)
+      .openOn(map);}
+       map.on('click', onMapClick);
+      
+      //顯示自己位置
+      L.control.locate({showPopup: false}).addTo(map).start();
+      
+      //新增綠色圖標
+      var greenIcon = new L.Icon({
+       iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
+       shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+       iconSize: [25, 41],
+       iconAnchor: [12, 41],
+       popupAnchor: [1, -34],
+       shadowSize: [41, 41]
+      });
+
+      
+      //新增黃色圖標
+       var yellowIcon = new L.Icon({
+       iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-yellow.png',
+       shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+       iconSize: [25, 41],
+       iconAnchor: [12, 41],
+       popupAnchor: [1, -34],
+       shadowSize: [41, 41]
+       });
+
+       
+      //新增橘色圖標
+       var orangeIcon = new L.Icon({
+       iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png',
+       shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+       iconSize: [25, 41],
+       iconAnchor: [12, 41],
+       popupAnchor: [1, -34],
+       shadowSize: [41, 41]
+       });
+
+     
+//宣告一個可以放markers的地方(沒寫這段資料庫跑不出來,經緯度可為任意值)
+       var data = [
+  {'name':'測試',lat:"",lng:""},
+ 
+]
+
+   //新增一個圖層放icon的組
+var markers=new L.MarkerClusterGroup().addTo(map);
+//在該圖層放上icon
+for(let i =0;data.length>i;i++){
+  console.log(data[i].name );
+
+  
+  
+  markers.addLayer(L.marker([data[i].lat,data[i].lng], {icon: greenIcon}))
+      }
+      this.map.addLayer(markers);
+      
+  
+
+//import data 
+var xhr = new XMLHttpRequest();
+//我準備要跟github，要資料庫的資料
+xhr.open("get","https://raw.githubusercontent.com/jiefoung/map.test/main/%E5%9C%B0%E5%9C%96%E8%B3%87%E6%96%99%E5%BA%AB.json");
+//執行要資料的動作
+xhr.send();
+//資料回傳，才會觸發以下的語法
+xhr.onload = function(){
+  //string轉成物件陣列的json格式
+ var data = JSON.parse(xhr.responseText).features;
+ //用迴圈把資料給到進去
+  for(let i =0;data.length>i;i++){
+   var mask;
+  
+  //座標各個資訊
+   {mask=greenIcon;}     
+  markers.addLayer(L.marker([data[i].geometry.coordinates[1],data[i].geometry.coordinates[0]], {icon: mask}).bindPopup('<h1>'+data[i].properties.name+'</h1><h2>'+data[i].properties.available+'</h2><h3>'+data[i].properties.address+'</h3><h4>'+data[i].properties.phone+'</h4><h5>'+data[i].properties.website+'</h5>'));
+
+
+
+  // add more markers here...
+  // L.marker().addTo(map)
+  //   )
+ }
+ map.addLayer(markers);
+}
+
+    </script>
+
+  </body>
+
+</html>
